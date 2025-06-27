@@ -14,22 +14,6 @@ We employed three different deep learning models to classify the ultrasound imag
 2. **VGG16**
 3. **ResNet50**
 
-## Results
-### Confusion Matrices
-![Confusion Matrices](https://github.com/TheNaiveSamosa/DL-Simplified/blob/e80b165685e6968ff28b574720aafee891b33516/Breast%20Cancer%20Detection%20using%20DL%20with%20WebApp/Images/Confusion%20Matrices.png)
-
-### Training and Validation Loss & Accuracy
-
-#### MLP
-![MLP Loss and Accuracy](https://github.com/TheNaiveSamosa/DL-Simplified/blob/e80b165685e6968ff28b574720aafee891b33516/Breast%20Cancer%20Detection%20using%20DL%20with%20WebApp/Images/MLP.png)
-
-#### VGG16
-![VGG16 Loss and Accuracy](https://github.com/TheNaiveSamosa/DL-Simplified/blob/e80b165685e6968ff28b574720aafee891b33516/Breast%20Cancer%20Detection%20using%20DL%20with%20WebApp/Images/VGG16.png)
-
-#### ResNet50
-![ResNet50 Loss and Accuracy](https://github.com/TheNaiveSamosa/DL-Simplified/blob/e80b165685e6968ff28b574720aafee891b33516/Breast%20Cancer%20Detection%20using%20DL%20with%20WebApp/Images/ResNet50.png)
-
-### Classification Reports
 
 #### MLP
 ```
@@ -73,10 +57,3 @@ weighted avg       0.57      0.62      0.52       316
 ## Conclusion
 Among the three models, VGG16 achieved the highest accuracy and performed the best in terms of precision, recall, and F1-score. Future work will involve further fine-tuning of the models and exploring additional data augmentation techniques to improve the classification performance.
 
-## Author
-TheNaiveSamosa
-
-GitHub: [TheNaiveSamosa](https://github.com/TheNaiveSamosa)
-Email: [thenaivesamosa@gmail.com](mailto:thenaivesamosa@gmail.com)
-
----
