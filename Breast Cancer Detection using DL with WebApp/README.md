@@ -59,8 +59,6 @@ Breast Cancer Detection App/
 |- requirements.txt
 |- README.md
 ```
-## Demo Image
-![Demo](https://github.com/TheNaiveSamosa/DL-Simplified/blob/cff14deb16166e5140d8b86435530f6b711cf60c/Breast%20Cancer%20Detection%20using%20DL%20with%20WebApp/Images/Demo%20webpage.png)
 
 ## 🙌 Acknowledgments
 
@@ -85,11 +83,3 @@ Gratitude to the open-source community and datasets contributing to the advancem
 
 6. **Analyze Results:**
    - Analyze model performance metrics, classification reports, confusion matrices, and accuracy/loss curves to interpret and validate results.
-
-For inquiries or assistance, reach out to the project contributors:
-- GitHub: [github.com/TheNaiveSamosa](github.com/TheNaiveSamosa)
-- Email: thenaivesamosa@gmail.com
-
-**Dataset Link:** [Breast Ultrasound Images Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
-
----
